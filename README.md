@@ -1,7 +1,6 @@
 # sge-2dam-apuntes
 Apuntes, tareas y proyectos del módulo SGE (2º DAM) .
 
-```
 # Apuntes SGE — 2º DAM
 Alumno/a: Nombre Apellido
 Grupo: 2º DAM
@@ -19,4 +18,3 @@ clonación para el tema 0.4.
 - Índice de apuntes
 - Tareas
 - Proyectos
-```
